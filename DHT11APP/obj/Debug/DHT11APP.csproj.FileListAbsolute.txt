@@ -1,0 +1,12 @@
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\bin\Debug\DHT11APP.exe.config
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\bin\Debug\DHT11APP.exe
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\bin\Debug\DHT11APP.pdb
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.csprojAssemblyReference.cache
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.Form1.resources
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.Properties.Resources.resources
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.exe
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.pdb
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\bin\Debug\CircularProgressBar.dll
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\bin\Debug\WinFormAnimation.dll
+C:\Users\veyse\source\repos\DHT11APP\DHT11APP\obj\Debug\DHT11APP.csproj.CopyComplete
